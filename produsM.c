@@ -28,7 +28,7 @@ int main()
         return 0;
     }
     
-    // inmultire matrice
+    // inmultire matricilor
     for(i = 0;i < n1;i ++)
         for(j = 0; j < m1;j ++)
             for(k = 0; k < m2; k ++)
